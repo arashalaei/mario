@@ -1,1 +1,6 @@
 /bin/
+
+/.settings
+/assets-mario
+/libgdx-mario-src
+/.classpath
